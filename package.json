@@ -4,7 +4,7 @@
   "version": "0.3.0",
   "license": "MIT",
   "scripts": {
-    "start": "budo js/walls.js --live --verbose --port 3000 --open",
+    "start": "budo js/map.js --live --verbose --port 3000 --open",
     "deploy": "gh-pages-deploy",
     "clean-source": "rimraf README.md package.json package-lock.json"
   },
