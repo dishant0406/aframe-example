@@ -3,3 +3,6 @@
 node_modules
 psd
 haters
+
+# Local Netlify folder
+.netlify
